@@ -1,0 +1,9 @@
+/* styles.css */
+
+body.transparent-bg {
+    background-image: url('background.png'); /* Replace 'background.png' with your image file */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
